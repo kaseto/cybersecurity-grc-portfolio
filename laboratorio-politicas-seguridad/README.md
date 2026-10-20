@@ -1,4 +1,4 @@
-# Laboratorio: Desarrollo de Políticas y Procedimientos de Ciberseguridad
+# 03-Laboratorio: Desarrollo de Políticas y Procedimientos de Ciberseguridad
 
 **Área:** GRC · Seguridad de la Información · Gestión de Riesgos  
 **Formación:** Administración de Amenazas Cibernéticas — Cisco-Fundae  
